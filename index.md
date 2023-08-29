@@ -1,3 +1,9 @@
+# Ansh Tandon's First CS193 Homework
+
+- Get to learn **vital** tools such as Git and GitHub for software development
+- Friendly homework submission deadlines (_two weeks to complete each homework_)
+- No exams/midterms in this class!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
